@@ -1,0 +1,13 @@
+{
+  "name": "Money Tracker",
+  "short_name": "MoneyTracker",
+  "description": "EMI, Budget & Khata Book tracker",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF5F0",
+  "theme_color": "#C4677A",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
